@@ -148,37 +148,4 @@ To ensure the models are making decisions based on meaningful features and not a
 
 ---
 
-## 📌 Citation  
 
-If you use this repository in your research, please cite it appropriately.  
-
----
-
-## 👨‍💻 Author  
-
-Developed and maintained by **[Your Name]**.  
-
----
-
-## 🤝 Contributions  
-
-Contributions are welcome! Feel free to submit pull requests or open issues for discussions.  
-
----
-
-## 📝 License  
-
-This project is licensed under the **MIT License**.
-```
-
----
-
-### Key Features of This README:
-✅ **Clear structure with well-defined sections**  
-✅ **Markdown-friendly links to Jupyter notebooks**  
-✅ **Dataset links for easy access**  
-✅ **Explains model interpretability efforts**  
-✅ **Summarizes evaluation metrics in a table**  
-✅ **Future work section for improvements**  
-
-Let me know if you'd like any modifications! 🚀
