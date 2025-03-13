@@ -5,7 +5,8 @@ This repository contains experiments and implementations for classifying strong 
 ![image](https://github.com/user-attachments/assets/efe2e73b-9755-4ff1-8e24-ff777d7ff5dc)
 ![image](https://github.com/user-attachments/assets/7d65af60-46a8-4977-b5ac-97de2ac45667)
 ![image](https://github.com/user-attachments/assets/5fcfb040-fe6f-4cc2-9611-7efde923f1b4)
-Some interesting results attached here!
+
+- Some interesting results attached here!
 
 ### 1️⃣ Installation  
 
